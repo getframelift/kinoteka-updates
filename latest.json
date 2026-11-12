@@ -1,10 +1,10 @@
 {
- "code": 27,
- "name": "6.2",
- "notes": "Mbaj shtypur OK (ose gishtin në telefon) mbi një film për veprime të shpejta. Fotot e aktorëve, statistikat te Historiku, faqe bosh më të qarta, njoftim kur s’ka internet dhe filmi vazhdon vetë kur kthehet. Më i qëndrueshëm dhe më i lexueshëm.",
- "file": "kinoteka-27.ktu",
- "sha256": "66a637bda3d405f093d2f36d1f6c25fff0bcfada1336a1a06c0a433f26c6c8af",
- "size": 6032996,
+ "code": 28,
+ "name": "6.3",
+ "notes": "Tingulli i hapjes së Kinotekës: një tingull i shkurtër kinemaje kur hapet aplikacioni, bashkë me logon. Mund ta fikësh te Cilësimet › Tingulli i hapjes.",
+ "file": "kinoteka-28.ktu",
+ "sha256": "175ec006fa22740adb5bf1f42226621fe0dcd303bea5fca8daa36b252992e18c",
+ "size": 6065830,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
