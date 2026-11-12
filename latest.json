@@ -1,8 +1,8 @@
 {
- "code": 18,
- "name": "5.3",
- "notes": "Ikonat e kanaleve tani janë brenda aplikacionit, kategori dhe faqe zhanresh si te Netflix, dhe faqja kryesore nuk të kthen më në krye vetvetiu.",
- "file": "kinoteka-18.ktu",
- "sha256": "84f25c6a518b248043f840f7d46484732fa51962de33e0d47d655b01126e49b6",
+ "code": 19,
+ "name": "5.4",
+ "notes": "Pamje si te Netflix: traileri mbush gjithë ekranin, karta të gjera kudo, butona dhe faqe filmi si te Netflix. U hoq faqja “Lista ime” nga menuja.",
+ "file": "kinoteka-19.ktu",
+ "sha256": "1be93d49d5ac2afed88a2e4cd8b2bfa1170287a526caf745cba1d5b253e6b153",
  "size": 5755329
 }
