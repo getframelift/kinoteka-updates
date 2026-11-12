@@ -1,8 +1,8 @@
 {
- "code": 21,
- "name": "5.6",
- "notes": "Rreshti i parë shihet i plotë nën filmin kryesor, dhe traileri në ekran të plotë ka titra shqip kur është e mundur.",
- "file": "kinoteka-21.ktu",
- "sha256": "2bd6a13fa7839919a68b4b3e63ecad7990e6820e250f44295d469e68a663ce13",
+ "code": 22,
+ "name": "5.7",
+ "notes": "Rreshti i parë nuk mbulon më butonat, dhe teksti lexohet qartë edhe kur luhet traileri.",
+ "file": "kinoteka-22.ktu",
+ "sha256": "1225bdb89168202b4cb95ee193f851daa9e7d7ec99e644b22b0ff2dcd6d77708",
  "size": 5759425
 }
