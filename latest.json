@@ -1,10 +1,10 @@
 {
- "code": 26,
- "name": "6.1",
- "notes": "Vazhdo shikimin në ekranin kryesor të TV-së, faqja Lista ime dhe Vlerësimet e mia (te Cilësimet), dhe raportet e problemeve që Kinoteka të rregullohet vetë.",
- "file": "kinoteka-26.ktu",
- "sha256": "638cbefd9c0a260b718c6140c121fb94e232414d960c0ecb00a5663014a8f658",
- "size": 6028900,
+ "code": 27,
+ "name": "6.2",
+ "notes": "Mbaj shtypur OK (ose gishtin në telefon) mbi një film për veprime të shpejta. Fotot e aktorëve, statistikat te Historiku, faqe bosh më të qarta, njoftim kur s’ka internet dhe filmi vazhdon vetë kur kthehet. Më i qëndrueshëm dhe më i lexueshëm.",
+ "file": "kinoteka-27.ktu",
+ "sha256": "66a637bda3d405f093d2f36d1f6c25fff0bcfada1336a1a06c0a433f26c6c8af",
+ "size": 6032996,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
