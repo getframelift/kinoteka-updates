@@ -4,5 +4,9 @@
  "notes": "Lojtar si Netflix: shpejtësia, ora kur mbaron filmi, fundi i filmit me filmin tjetër dhe vlerësimin, pamja e skenës kur kalon përpara. Të reja: “Më kujto” te Së shpejti, foto profili, shkarkime dhe prekje të reja në telefon.",
  "file": "kinoteka-25.ktu",
  "sha256": "8b60dc73c1fc25595fe2ada99765cfcfc5f918af193a35f1a8e1e8114c0a7e55",
- "size": 6020708
+ "size": 6020708,
+ "fb": {
+  "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
+  "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
+ }
 }
