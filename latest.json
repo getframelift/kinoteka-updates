@@ -1,8 +1,8 @@
 {
- "code": 23,
- "name": "5.8",
- "notes": "Pamja e re si Netflix në TV: posterë të gjatë, informacioni lart, rreshta më të mirë; prekja në telefon punon më mirë.",
- "file": "kinoteka-23.ktu",
- "sha256": "df97505993a3f02e37211fe814abf3be4ffc187683d40d43a3a059d9de25bcb9",
- "size": 5759425
+ "code": 24,
+ "name": "5.9",
+ "notes": "Lëvizje më e butë me telekomandë: efektet e rënda u hoqën, dhe në televizorë më të ngadaltë “Pamja e lehtë” ndizet vetë.",
+ "file": "kinoteka-24.ktu",
+ "sha256": "da261285d841b4e18a608ba6b802355d3295c9cfcc8596df27252d21f86a499a",
+ "size": 5763521
 }
