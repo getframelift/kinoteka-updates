@@ -1,8 +1,8 @@
 {
- "code": 22,
- "name": "5.7",
- "notes": "Rreshti i parë nuk mbulon më butonat, dhe teksti lexohet qartë edhe kur luhet traileri.",
- "file": "kinoteka-22.ktu",
- "sha256": "1225bdb89168202b4cb95ee193f851daa9e7d7ec99e644b22b0ff2dcd6d77708",
+ "code": 23,
+ "name": "5.8",
+ "notes": "Pamja e re si Netflix në TV: posterë të gjatë, informacioni lart, rreshta më të mirë; prekja në telefon punon më mirë.",
+ "file": "kinoteka-23.ktu",
+ "sha256": "df97505993a3f02e37211fe814abf3be4ffc187683d40d43a3a059d9de25bcb9",
  "size": 5759425
 }
