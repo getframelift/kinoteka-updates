@@ -1,8 +1,8 @@
 {
- "code": 24,
- "name": "5.9",
- "notes": "Lëvizje më e butë me telekomandë: efektet e rënda u hoqën, dhe në televizorë më të ngadaltë “Pamja e lehtë” ndizet vetë.",
- "file": "kinoteka-24.ktu",
- "sha256": "da261285d841b4e18a608ba6b802355d3295c9cfcc8596df27252d21f86a499a",
- "size": 5763521
+ "code": 25,
+ "name": "6.0",
+ "notes": "Lojtar si Netflix: shpejtësia, ora kur mbaron filmi, fundi i filmit me filmin tjetër dhe vlerësimin, pamja e skenës kur kalon përpara. Të reja: “Më kujto” te Së shpejti, foto profili, shkarkime dhe prekje të reja në telefon.",
+ "file": "kinoteka-25.ktu",
+ "sha256": "8b60dc73c1fc25595fe2ada99765cfcfc5f918af193a35f1a8e1e8114c0a7e55",
+ "size": 6020708
 }
