@@ -1,8 +1,8 @@
 {
- "code": 17,
- "name": "5.2",
- "notes": "Historiku i shikimit, hapje më e shpejtë dhe përditësime automatike.",
- "file": "kinoteka-17.ktu",
- "sha256": "90899893065931a4e853be00e96a2d011882864f4a6fa3b4ae0d5f496275834f",
- "size": 3453628
+ "code": 18,
+ "name": "5.3",
+ "notes": "Ikonat e kanaleve tani janë brenda aplikacionit, kategori dhe faqe zhanresh si te Netflix, dhe faqja kryesore nuk të kthen më në krye vetvetiu.",
+ "file": "kinoteka-18.ktu",
+ "sha256": "84f25c6a518b248043f840f7d46484732fa51962de33e0d47d655b01126e49b6",
+ "size": 5755329
 }
