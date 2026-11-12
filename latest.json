@@ -1,9 +1,9 @@
 {
- "code": 30,
- "name": "6.5",
- "notes": "Raportet e problemeve tani dërgohen vetë, pa pasur nevojë të hysh në llogari.",
- "file": "kinoteka-30.ktu",
- "sha256": "4283c0c23f4e28ca90db30173ccd0527f75af289c8f127f78a187ab892137bd3",
+ "code": 31,
+ "name": "6.6",
+ "notes": "Kanalet hapen gjithmonë në cilësinë më të mirë. Kur lidhja Trex është ende e zënë, Kinoteka pret pak në vend që të japë gabim. Numrat e Top 10 duken të plotë. Traileri në Kreu merr gjithë ekranin pas pak sekondash, si te Netflix. Fotoja e filmit më e qartë dhe informacioni më i lexueshëm.",
+ "file": "kinoteka-31.ktu",
+ "sha256": "e3df1bf7cbcb69e8ab8764e5338403fcc4c6ec5721b3798ccbe7b208c6759526",
  "size": 6082214,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
