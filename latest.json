@@ -1,10 +1,10 @@
 {
- "code": 33,
- "name": "6.8",
- "notes": "Kreu si Netflix: fotoja dhe traileri djathtas, që zbehen në të errët majtas; traileri nis më shpejt. Pamja e skenës kur kalon para/mbrapa në film. Ekran i plotë në telefon. Shkronja e re e Kinotekës. Cilësimet në seksione. Animacione: profili, hapja e filmit nga posteri, drita mbi posterin e zgjedhur, ngarkim i butë. Vazhdo shikimin tregon skenën ku ndalove.",
- "file": "kinoteka-33.ktu",
- "sha256": "c4c631b1a37546a24e65f813d9636fae5cfb8bf3590eb41699580d1c0273a7bb",
- "size": 6299509,
+ "code": 34,
+ "name": "6.9",
+ "notes": "Rekomandime më të zgjuara: “Kush pa këtë, pëlqeu edhe…” nga miliona shikues; Kreu ndjek shijen tënde të kësaj jave; radha e rreshtave mësohet nga ajo që hap; rreshta për natën vonë, për fundjavën me familjen dhe “Diçka ndryshe për ty”. Profilet e reja zgjedhin filmat që u pëlqejnë (edhe te Cilësimet › Shijet e mia).",
+ "file": "kinoteka-34.ktu",
+ "sha256": "d986450f0b3caab763676eb51d9931c9c554963c278206c68c7c18acea88acdd",
+ "size": 6422449,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
