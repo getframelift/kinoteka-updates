@@ -1,9 +1,9 @@
 {
- "code": 31,
- "name": "6.6",
- "notes": "Kanalet hapen gjithmonë në cilësinë më të mirë. Kur lidhja Trex është ende e zënë, Kinoteka pret pak në vend që të japë gabim. Numrat e Top 10 duken të plotë. Traileri në Kreu merr gjithë ekranin pas pak sekondash, si te Netflix. Fotoja e filmit më e qartë dhe informacioni më i lexueshëm.",
- "file": "kinoteka-31.ktu",
- "sha256": "e3df1bf7cbcb69e8ab8764e5338403fcc4c6ec5721b3798ccbe7b208c6759526",
+ "code": 32,
+ "name": "6.7",
+ "notes": "Etiketat e cilësisë së kanaleve u kontrolluan me listën e Trex: Astro SuperSport tani shfaqet 4K, kanalet Relax 1920p tani shfaqen Full HD.",
+ "file": "kinoteka-32.ktu",
+ "sha256": "da8d7cd3dd1b56f9c93bff429c5dc485f08aa7d2e17deb4b2f4afe012fd2042b",
  "size": 6082214,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
