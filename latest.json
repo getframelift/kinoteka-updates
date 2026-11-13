@@ -1,10 +1,10 @@
 {
- "code": 35,
- "name": "7.0",
- "notes": "Informacioni i filmave u plotësua: përshkrime shqip, foto, aktorë, regjisorë dhe kohëzgjatje për rreth 120 filma, dhe u rregulluan filmat që ishin lidhur me filmin e gabuar. Filmat pa foto të gjerë tregojnë posterin. Kërkimi gjen edhe kanalet televizive (me emër ose lloj: sport, lajme, muzikë).",
- "file": "kinoteka-35.ktu",
- "sha256": "d38483fe9f5e779b3131bbfe5a33687b8000eb204ca87fe4a1895a2f8992a781",
- "size": 6430641,
+ "code": 36,
+ "name": "7.1",
+ "notes": "E re: “Ndeshjet e sotme” në Kreu — ndeshjet e mëdha të ditës dhe çdo ndeshje e Shqipërisë dhe Kosovës, me stemat e skuadrave, rezultatin live dhe kanalin ku jepet. Shtyp OK mbi ndeshjen për ta hapur. Lart djathtas shfaqet një shenjë e vogël kur luan Kombëtarja ose kur një ndeshje e madhe është live. Te TV Live ka edhe listën “Ndeshjet e sotme”.",
+ "file": "kinoteka-36.ktu",
+ "sha256": "fb137df62ff4e6318efb5a1784889c2d4afbcaefaec8250a8b293013af46ba15",
+ "size": 6438833,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
