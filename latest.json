@@ -1,10 +1,10 @@
 {
- "code": 37,
- "name": "7.2",
- "notes": "Lidhja më e qëndrueshme: kur bie Wi-Fi ose ndërrohet rrjeti, filmi ose kanali pret me qetësi dhe vazhdon vetë nga i njëjti vend sapo të kthehet interneti, pa gabime dhe pa ndërruar cilësinë kot. Rilidhja provon më gjatë (rreth gjysmë minute) para se të dorëzohet. Guida e programeve dhe ndeshjet ngarkohen sërish vetë kur kthehet interneti.",
- "file": "kinoteka-37.ktu",
- "sha256": "89999b5109797a22c26fb9d7ff0f2c3e6a7387bff4bb2afe0ffde2e57caad8cc",
- "size": 6438833,
+ "code": 38,
+ "name": "7.3",
+ "notes": "Lidhja edhe më e qëndrueshme: kur ndërrohet rrjeti (Wi-Fi, të dhëna celulare ose VPN), kanali ose filmi rilidhet menjëherë nga i njëjti vend, pa pritur. Listat e kanaleve, guida e programeve dhe informacionet e filmave provohen sërish vetë nëse interneti bie për një çast.",
+ "file": "kinoteka-38.ktu",
+ "sha256": "0a8bc68e8aab121a8584e0d874571924d099ee534925f3c04efc451e0491331f",
+ "size": 6455299,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
