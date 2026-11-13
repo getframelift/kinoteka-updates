@@ -1,10 +1,10 @@
 {
- "code": 32,
- "name": "6.7",
- "notes": "Etiketat e cilësisë së kanaleve u kontrolluan me listën e Trex: Astro SuperSport tani shfaqet 4K, kanalet Relax 1920p tani shfaqen Full HD.",
- "file": "kinoteka-32.ktu",
- "sha256": "da8d7cd3dd1b56f9c93bff429c5dc485f08aa7d2e17deb4b2f4afe012fd2042b",
- "size": 6082214,
+ "code": 33,
+ "name": "6.8",
+ "notes": "Kreu si Netflix: fotoja dhe traileri djathtas, që zbehen në të errët majtas; traileri nis më shpejt. Pamja e skenës kur kalon para/mbrapa në film. Ekran i plotë në telefon. Shkronja e re e Kinotekës. Cilësimet në seksione. Animacione: profili, hapja e filmit nga posteri, drita mbi posterin e zgjedhur, ngarkim i butë. Vazhdo shikimin tregon skenën ku ndalove.",
+ "file": "kinoteka-33.ktu",
+ "sha256": "c4c631b1a37546a24e65f813d9636fae5cfb8bf3590eb41699580d1c0273a7bb",
+ "size": 6299509,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
