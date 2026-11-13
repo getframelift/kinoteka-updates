@@ -1,10 +1,10 @@
 {
- "code": 34,
- "name": "6.9",
- "notes": "Rekomandime më të zgjuara: “Kush pa këtë, pëlqeu edhe…” nga miliona shikues; Kreu ndjek shijen tënde të kësaj jave; radha e rreshtave mësohet nga ajo që hap; rreshta për natën vonë, për fundjavën me familjen dhe “Diçka ndryshe për ty”. Profilet e reja zgjedhin filmat që u pëlqejnë (edhe te Cilësimet › Shijet e mia).",
- "file": "kinoteka-34.ktu",
- "sha256": "d986450f0b3caab763676eb51d9931c9c554963c278206c68c7c18acea88acdd",
- "size": 6422449,
+ "code": 35,
+ "name": "7.0",
+ "notes": "Informacioni i filmave u plotësua: përshkrime shqip, foto, aktorë, regjisorë dhe kohëzgjatje për rreth 120 filma, dhe u rregulluan filmat që ishin lidhur me filmin e gabuar. Filmat pa foto të gjerë tregojnë posterin. Kërkimi gjen edhe kanalet televizive (me emër ose lloj: sport, lajme, muzikë).",
+ "file": "kinoteka-35.ktu",
+ "sha256": "d38483fe9f5e779b3131bbfe5a33687b8000eb204ca87fe4a1895a2f8992a781",
+ "size": 6430641,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
