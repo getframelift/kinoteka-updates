@@ -1,10 +1,10 @@
 {
- "code": 40,
- "name": "7.5",
- "notes": "Kanalet tani duken shumë më qartë: më shumë kanale në ekran, kartela më të vogla, pa rreshtin “Shikuar së fundmi”, dhe lëvizje më e lehtë me telekomandë.",
- "file": "kinoteka-40.ktu",
- "sha256": "41c475c070263029f921829687a2476fafc27d78cf1baca52965f7e50603b471",
- "size": 4534994,
+ "code": 41,
+ "name": "7.6",
+ "notes": "Faqja kryesore tani është guida: kategoritë në të majtë, shumë më tepër kanale me programin e tanishëm dhe të radhës në mes, dhe detajet në të djathtë. Hoqëm “Shikuar së fundmi”.",
+ "file": "kinoteka-41.ktu",
+ "sha256": "9b850085bbc694e36a16306347f1eb4df6cdcb41828e886c2fa0425e4674255e",
+ "size": 4530898,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
