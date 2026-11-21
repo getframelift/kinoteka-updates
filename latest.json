@@ -1,9 +1,9 @@
 {
- "code": 39,
- "name": "7.4",
- "notes": "Kinoteka tani është vetëm TV: kanalet, guida dhe ndeshjet e sotme. Më e shpejtë, më e lehtë dhe me pamje të re.",
- "file": "kinoteka-39.ktu",
- "sha256": "1942908d705b90209d40b1e7d6f3d646bb614f748f07dc96bb821b0910da9459",
+ "code": 40,
+ "name": "7.5",
+ "notes": "Kanalet tani duken shumë më qartë: më shumë kanale në ekran, kartela më të vogla, pa rreshtin “Shikuar së fundmi”, dhe lëvizje më e lehtë me telekomandë.",
+ "file": "kinoteka-40.ktu",
+ "sha256": "41c475c070263029f921829687a2476fafc27d78cf1baca52965f7e50603b471",
  "size": 4534994,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
