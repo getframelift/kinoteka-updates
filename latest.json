@@ -1,10 +1,10 @@
 {
- "code": 38,
- "name": "7.3",
- "notes": "Lidhja edhe më e qëndrueshme: kur ndërrohet rrjeti (Wi-Fi, të dhëna celulare ose VPN), kanali ose filmi rilidhet menjëherë nga i njëjti vend, pa pritur. Listat e kanaleve, guida e programeve dhe informacionet e filmave provohen sërish vetë nëse interneti bie për një çast.",
- "file": "kinoteka-38.ktu",
- "sha256": "0a8bc68e8aab121a8584e0d874571924d099ee534925f3c04efc451e0491331f",
- "size": 6455299,
+ "code": 39,
+ "name": "7.4",
+ "notes": "Kinoteka tani është vetëm TV: kanalet, guida dhe ndeshjet e sotme. Më e shpejtë, më e lehtë dhe me pamje të re.",
+ "file": "kinoteka-39.ktu",
+ "sha256": "1942908d705b90209d40b1e7d6f3d646bb614f748f07dc96bb821b0910da9459",
+ "size": 4534994,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
